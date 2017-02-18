@@ -1,5 +1,5 @@
 name: Computational And Physical Systems lab
-url: http://capsidaho.org
+url: https://kephale.github.io/capsidaho/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
