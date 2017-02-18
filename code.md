@@ -2,8 +2,8 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
+Code maintained and used by the CAPS lab:
 
-If you like this template, find our group's other code here:
-
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+ * [brevis](http://brevis.us/)
+ * [funimage](https://github.com/funimage/funimage)
+ * [ThreeDViewer](https://github.com/kephale/ThreeDViewer)

@@ -1,29 +1,27 @@
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+kyle:
+    display_name: "Kyle Harrington, PhD"
+    webpage: "http://kyleharrington.com"
+    github: kephale
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
-melody:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+        Kyle Harrington is the founder and director of the CAPS lab.
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+lmagbunduku:
+    display_name: "Louise Magbunduku"
+    role: undergrad
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
+amcnutt:
+    display_name: "Alice McNutt"
+    role: undergrad
 
-jean:
-    display_name: "Jean Grey"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+itanimoto:
+    display_name: "Ian Tanimoto"
+    role: undergrad
+
+#melody:
+#    display_name: "Scott Summers"
+#    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#    role: staff
+#    bio: |
+#        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+

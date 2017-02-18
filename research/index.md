@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Research Projects
+title: Research
 projects:
-  - link: project/
-    name: An Exciting project
+  - link: funimage/
+    name: Funimage
     summary: This will never work.
 ---
 
-Our research is awesome.
+Our current research on scientific computing, artificial life, and computational biology.
 
-### An Exciting project
-Read about it [here][project].
+### Funimage
+Read about it [here][funimage].
 
-[project]: project/index.html
+[funimage]: funimage/index.html
