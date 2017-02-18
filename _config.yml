@@ -9,7 +9,7 @@ exclude: [bibble, README.md, Makefile, screenshot.png]
 #    extensions: [smart, tables]
 
 # colorize code snippets with the pygments module
-pygments: true
+#pygments: true
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
