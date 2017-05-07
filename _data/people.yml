@@ -21,3 +21,8 @@ amcnutt:
 itanimoto:
     display_name: "Ian Tanimoto"
     role: undergrad
+
+tdevault:
+    display_name: "Travis DeVault"
+    role: visitor
+
