@@ -28,7 +28,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://www.capsidaho.com'
+base: 'http://www.capsidaho.com'
 
 # Navigation bar links.
 navigation:
