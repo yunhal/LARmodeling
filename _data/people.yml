@@ -6,6 +6,10 @@ kyle:
     bio: |
         Kyle Harrington is the founder and director of the CAPS lab.
 
+lepstein:
+    display_name: "Leo Epstein"
+    role: grad
+
 lmagbunduku:
     display_name: "Louise Magbunduku"
     role: undergrad
