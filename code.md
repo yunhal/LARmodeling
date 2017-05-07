@@ -7,3 +7,4 @@ Code maintained and used by the CAPS lab:
  * [brevis](http://brevis.us/)
  * [funimage](https://github.com/funimage/funimage)
  * [ThreeDViewer](https://github.com/kephale/ThreeDViewer)
+ * [This website](https://github.com/kephale/capsidaho)
