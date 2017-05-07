@@ -28,7 +28,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+base: 'https://kephale.github.io/capsidaho/'
 
 # Navigation bar links.
 navigation:
