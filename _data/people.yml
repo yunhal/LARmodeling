@@ -26,3 +26,6 @@ tdevault:
     display_name: "Travis DeVault"
     role: visitor
 
+zdubois:
+    display_name: "Zeth du Bois"
+    role: grad
