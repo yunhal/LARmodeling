@@ -19,16 +19,16 @@ Resources for CAPS folks
 
 We write in LaTeX, MarkDown, and .doc formats.
 
-Read about it [here][writing].
+Read about it [here](writing).
 
 ### Data Management
 
 Keeping track of your code and your data.
 
-Read about it [here][datamanagement].
+Read about it [here](datamanagement).
 
 ### Programming
 
 Programming resources for multiple languages.
 
-Read about it [here][programming].
+Read about it [here](programming).
