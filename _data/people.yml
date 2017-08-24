@@ -1,31 +1,18 @@
 kyle:
-    display_name: "Kyle Harrington, PhD"
-    webpage: "http://kyleharrington.com"
-    github: kephale
+    display_name: "Yunha Lee, PhD"
+    webpage: "http://yunhalee.com"
+    github: yunhal
     role: faculty
     bio: |
-        Kyle Harrington is the founder and director of the CAPS group. Kyle is an assistant professor at the University of Idaho. 
+        Yunha Lee is an assistant professor at Washington State University, leading a modeling group at Laboratory for Atmospheric Research (LAR). 
 
-lepstein:
-    display_name: "Leo Epstein"
+kai.fan:
+    display_name: "Kai Fan"
     role: grad
 
-lmagbunduku:
-    display_name: "Louise Magbunduku"
-    role: undergrad
-
-amcnutt:
-    display_name: "Alice McNutt"
-    role: undergrad
-
-itanimoto:
-    display_name: "Ian Tanimoto"
-    role: undergrad
-
-tdevault:
-    display_name: "Travis DeVault"
-    role: visitor
-
-zdubois:
-    display_name: "Zeth du Bois"
+neda.khosravi:
+    display_name: "Neda Khosravi"
     role: grad
+
+
+
