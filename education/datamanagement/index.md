@@ -11,9 +11,8 @@ Everything is data: spreadsheets, images, code, papers, etc.. If you can write i
 
 ## Google Drive
 
-## Sync
+## One Drive (WSU provides 1 TB space)
 
-## AWS S3/glacier
 
 # Code management
 
@@ -23,14 +22,3 @@ Git (there are others, but they aren't worth dealing with these days).
 
 ## Gitlab
 
-# Written documents
-
-## Preprints
-
-Figshare, arXiv, bioRxiv
-
-## Overleaf
-
-# Large amounts of data
-
-## CAPS internal systems
