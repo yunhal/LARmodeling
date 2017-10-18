@@ -1,5 +1,5 @@
-name: Computational And Physical Systems lab
-url: http://www.capsidaho.com
+name: LAR modeling group
+url: http://www.yunhalee.com
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -18,8 +18,9 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
     - {key: faculty, name: Faculty}
 #    - {key: staff, name: Staff}
-#    - {key: postdoc, name: Researchers}
-    - {key: grad, name: Graduate Students}
+    - {key: postdoc, name: Researchers}
+    - {key: phd, name: Ph.D. Students}
+    - {key: ms, name: M.S. Students}
     - {key: undergrad, name: Undergraduate Students}
     - {key: visitor, name: Visitors}
 #    - {key: collab, name: Collaborators}
@@ -29,7 +30,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'http://www.capsidaho.com'
+base: 'http://www.yunhalee.com'
 
 # Navigation bar links.
 navigation:

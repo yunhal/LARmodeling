@@ -1,4 +1,4 @@
-kyle:
+yunha:
     display_name: "Yunha Lee, PhD"
     webpage: "http://yunhalee.com"
     github: yunhal
@@ -8,11 +8,25 @@ kyle:
 
 kai.fan:
     display_name: "Kai Fan"
-    role: grad
+    role: phd 
+    bio: started Fall 2016
 
 neda.khosravi:
     display_name: "Neda Khosravi"
-    role: grad
+    role: phd 
+    bio: started Fall 2017
 
+semko.momeni:
+    display_name: "Mahmoudreza (Semko) Momeni"
+    role: ms 
+    bio: co-advisor; started Fall 2016
 
+jordan.munson:
+    display_name: "Jordan Munson"
+    role: ms 
+    bio: will start Spring 2018
 
+yunus.cevahir: 
+    display_name: "Furkan (Yunus) Cevahir"
+    role: ms
+    bio: will start Spring 2018 
