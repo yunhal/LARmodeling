@@ -5,13 +5,10 @@ title: Writing resources
 
 Writing resources
 
-# LaTeX
-
-Overleaf
 
 # MarkDown
 
-Pandoc
+Pandoc, LaTeX
 
 # .doc/.docx
 
