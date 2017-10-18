@@ -3,35 +3,27 @@ layout: default
 title: Programming resources
 ---
 
-# Programming editors
-
-## IntelliJ
-
-## PyCharm
-
-## Eclipse
-
-## Atom
+# Programming editor
 
 ## Emacs
 
 ## Vim
 
+
 # Languages
 
-## Clojure
+## Fortran
 
 ## Python
 
-## Java
+## R
 
-## C++
+## Shell script
 
-## JavaScript
 
 # Operating systems
 
-## Linux
+## Unix/Linux
 
 ## OS X
 
