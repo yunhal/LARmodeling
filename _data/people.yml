@@ -1,10 +1,15 @@
 yunha:
     display_name: "Yunha Lee, PhD"
-    webpage: "http://yunhalee.com"
+    webpage: "https://ce.wsu.edu/faculty/yunha-lee/"
     github: yunhal
     role: faculty
     bio: |
-        Yunha Lee is an assistant professor at Washington State University, leading a modeling group at Laboratory for Atmospheric Research (LAR). 
+        Yunha Lee is an assistant professor at Washington State University, leading an air quality modeling group at Laboratory for Atmospheric Research (LAR). 
+
+tsengel:
+    display_name: "Tsengel Nergui"
+    role: postdoc
+    bio: Postdoc since June 2016
 
 kai.fan:
     display_name: "Kai Fan"
