@@ -22,7 +22,7 @@ projects:
 Our current research on air quality modeling from local-scale to regional-scale, particularly focused on wildfires. 
 
 ### AIRPACT
-AIRPACT is a regional air quality forecast over Pacific Northwest region. Please read about it [here](funimagej).
+AIRPACT is a regional air quality forecast over Pacific Northwest region. Please read about it [here](http://lar.wsu.edu/airpact/).
 
 [AIRPACT]: airpact/index.html
 
