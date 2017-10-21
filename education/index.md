@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CAPS Education
+title: LAR Education
 projects:
   - link: writing/
     name: Writing resources
@@ -17,7 +17,7 @@ Resources for CAPS folks
 
 ### Writing
 
-We write in LaTeX, MarkDown, and .doc formats.
+We write in MS Word, LaTeX, and MarkDown formats.
 
 Read about it [here](writing).
 
