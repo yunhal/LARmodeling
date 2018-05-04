@@ -3,7 +3,7 @@ layout: default
 title: Programming resources
 ---
 
-# Programming editor
+## Programming editor
 
 emacs
 
@@ -12,7 +12,7 @@ gedit
 vim
 
 
-# Languages
+## Languages
 
 Fortran
 
@@ -21,6 +21,6 @@ Python or R
 Shell script
 
 
-# Operating systems
+## Operating systems
 
 Unix/Linux

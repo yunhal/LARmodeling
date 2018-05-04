@@ -6,10 +6,10 @@ title: Writing resources
 Writing resources
 
 
-# MarkDown
+## MarkDown
 
 Pandoc, LaTeX
 
-# .doc/.docx
+## .doc/.docx
 
 Word, LibreOffice, Google Docs
