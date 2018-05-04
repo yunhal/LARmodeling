@@ -7,18 +7,15 @@ Everything is data: spreadsheets, images, code, papers, etc.. If you can write i
 
 # Cloud
 
-## Dropbbox
+Dropbbox
 
-## Google Drive
+Google Drive
 
-## One Drive (WSU provides 1 TB space)
+One Drive (WSU provides 1 TB space)
 
 
 # Code management
 
-Git (there are others, but they aren't worth dealing with these days).
+Github
 
-## Github
-
-## Gitlab
-
+Gitlab

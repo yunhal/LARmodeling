@@ -5,27 +5,22 @@ title: Programming resources
 
 # Programming editor
 
-## Emacs
+emacs
 
-## Vim
+gedit
+
+vim
 
 
 # Languages
 
-## Fortran
+Fortran
 
-## Python
+Python or R
 
-## R
-
-## Shell script
+Shell script
 
 
 # Operating systems
 
-## Unix/Linux
-
-## OS X
-
-## Windows
-
+Unix/Linux
