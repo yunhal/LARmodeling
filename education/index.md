@@ -13,7 +13,7 @@ projects:
     summary: This will never work.
 ---
 
-Resources for CAPS folks
+Resources for LAR folks
 
 ### Writing
 

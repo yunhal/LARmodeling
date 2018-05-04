@@ -6,32 +6,47 @@ yunha:
     bio: |
         Yunha Lee is an assistant professor at Washington State University, leading an air quality modeling group at Laboratory for Atmospheric Research (LAR). 
 
-tsengel:
-    display_name: "Tsengel Nergui"
-    role: postdoc
-    bio: Postdoc since June 2016
-
 kai.fan:
     display_name: "Kai Fan"
     role: phd 
-    bio: started Fall 2016
+    bio: started in Fall 2016
 
-neda.khosravi:
-    display_name: "Neda Khosravi"
+ana.carla.fernandez.valdes:
+    display_name: "Ana Carla Fernandez Valdes"
     role: phd 
-    bio: started Fall 2017
-
-semko.momeni:
-    display_name: "Mahmoudreza (Semko) Momeni"
-    role: ms 
-    bio: co-advisor; started Fall 2016
+    bio: starts in Fall 2018
 
 jordan.munson:
     display_name: "Jordan Munson"
     role: ms 
-    bio: will start Spring 2018
+    bio: started in Spring 2018
+  
+semko.momeni:
+    display_name: "Mahmoudreza (Semko) Momeni"
+    role: ms 
+    bio: co-advisor; started in Fall 2016
 
-yunus.cevahir: 
-    display_name: "Furkan (Yunus) Cevahir"
-    role: ms
-    bio: will start Spring 2018 
+tsengel:
+    display_name: "Tsengel Nergui"
+    role: alum
+    bio: Postdoc from June 2017 to Jan 2018
+    
+perkins:
+    display_name: "John Perkins"
+    role: alum
+    bio: 2017 REU summer intern from Arizona State Univ.
+
+anderson:
+    display_name: "Samuel Anderson"
+    role: alum
+    bio: 2017 REU summer intern from Univ. of Utah
+    
+austin:
+    display_name: "Austin Pelletier"
+    role: alum
+    bio: 2017 REU summer intern from Washington State Univ.
+    
+ronan:
+    display_name: "Allison Ronan"
+    role: alum
+    bio: 2016 REU summer intern from Penn State Univ.
